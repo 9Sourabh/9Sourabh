@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @9Sourabh
-- 👀 I’m interested in cryptography,web devoloping,programing language,syber security,machine larning,
-- 🌱 I’m currently learning ...web devoloping,
+- 🛡im interested in cybersecurity. 
+-
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
